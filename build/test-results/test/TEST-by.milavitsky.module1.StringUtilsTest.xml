@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.milavitsky.module1.StringUtilsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-01-27T11:17:04" hostname="DESKTOP-V5A3FDV" time="0.075">
+  <properties/>
+  <testcase name="testIsPositiveNumberPositive(String)[1]" classname="by.milavitsky.module1.StringUtilsTest" time="0.049"/>
+  <testcase name="testIsPositiveNumberPositive(String)[2]" classname="by.milavitsky.module1.StringUtilsTest" time="0.001"/>
+  <testcase name="testIsPositiveNumberPositive(String)[3]" classname="by.milavitsky.module1.StringUtilsTest" time="0.001"/>
+  <testcase name="testIsPositiveNumberPositive(String)[4]" classname="by.milavitsky.module1.StringUtilsTest" time="0.0"/>
+  <testcase name="testIsPositiveNumberNegative(String)[1]" classname="by.milavitsky.module1.StringUtilsTest" time="0.001"/>
+  <testcase name="testIsPositiveNumberNegative(String)[2]" classname="by.milavitsky.module1.StringUtilsTest" time="0.001"/>
+  <testcase name="testIsPositiveNumberNegative(String)[3]" classname="by.milavitsky.module1.StringUtilsTest" time="0.001"/>
+  <testcase name="testIsPositiveNumberNegative(String)[4]" classname="by.milavitsky.module1.StringUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
